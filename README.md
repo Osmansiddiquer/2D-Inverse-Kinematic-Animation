@@ -1,6 +1,6 @@
 # 2D-Inverse-Kinematic-Animation
 The result of some experimentation trying to calculate the angles for servo motors given the final x and y coordinates for a friend's project. The major constraint was that motors could not be placed at the arms. So both arms had to be moved using the motors at the base.
-_This does not include the code for driving the motors. You will have to set up a serial server for that and modify the sendToSerial function to send the angles over the connection._
+_This does not include the code for driving the motors. You will have to set up a serial server for that and modify the sendToSerial function in the sketch.js file to send the angles over the connection._
 
 ## To run:
 - Clone the repo
