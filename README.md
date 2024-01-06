@@ -10,6 +10,8 @@ _This does not include the code for driving the motors. You will have to set up 
 Take a look at this Desmos graph to see what theta_1 and theta_2 indicate: https://www.desmos.com/calculator/6owvnwl81b
 
 ## Preview:
+https://osmansiddiquer.github.io/2D-Inverse-Kinematic-Animation/
+
 ![image](https://github.com/Osmansiddiquer/2D-Inverse-Kinematic-Animation/assets/90533561/668109ef-9eeb-46ce-b3a2-b4cbc11e41be)
 
 The point N (see the Desmos graph) follows a straight path to the destination.
